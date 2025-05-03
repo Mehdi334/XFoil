@@ -1,4 +1,4 @@
-<h1> XFOIL Simulation -NACA-4-Series Aerofoil</h1>
+<h1> XFOIL Simulation - NACA 4-Series Aerofoil</h1>
 
 <h2>Description</h2>
 XFOIL is a free software developed by MIT that is used for the design and analysis of subsoinc aerofoils. Utilising the coordinates of a 2D aerofoil, Reynolds Number & Mach Number, XFOIL can calculate the pressure distribution on the airfoil and lift and drag characteristics. 
